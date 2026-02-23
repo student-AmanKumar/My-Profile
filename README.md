@@ -1,6 +1,6 @@
 # my-profile
 
-This is my personal profile or portfolio website built in html, css, javascript.
+This is my personal profile  website built in html, css, javascript.
 
 <img width="952" alt="6" src="#">
 
