@@ -37,7 +37,8 @@ This is my personal profile  website built in html, css, and  javascript.
 <h2>Project Contributors🫂</h2>
 
 <a href="#">
-  <img src="" />![new 3](https://github.com/user-attachments/assets/28edc02d-0ea7-4c53-81e7-62ae3e19bcf8)
+
+![new 3](https://github.com/user-attachments/assets/c3bd89b1-b4d7-4bad-8206-cae3b60fc218)
 
 </a>
 
