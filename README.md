@@ -7,8 +7,8 @@ This is my personal profile or portfolio website built in html, css, javascript.
 
 ## 🔗 Links
 <div id="badges">
-  <a href="#">
-    <img src="#"/>
+  <a href="https://www.linkedin.com/in/aman-kumar-462a21316/">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT6HrOMIUHATjo7rRc2vDxvdtedbcA8-khlI_VeGBhcQ&s"/>
   </a>
 </div>
 
@@ -34,10 +34,4 @@ This is my personal profile or portfolio website built in html, css, javascript.
 
 
 
-<h2>Project Contributors🫂</h2>
 
-<a href="https://github.com/vishal02527/my-profile/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=vishal02527/my-profile" />
-</a>
-
-<h2>Contributions are always welcome! 🎉</h2>
