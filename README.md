@@ -29,6 +29,9 @@ This is my personal profile or portfolio website built in html, css, javascript.
 - Signup/Login Page
 - Project Page
 
+## Tech Stack
+
+**Client:** HTML, CSS, JavaScipt, Bootstrap.
 
 
 
