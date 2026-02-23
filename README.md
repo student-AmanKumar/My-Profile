@@ -38,7 +38,6 @@ This is my personal profile  website built in html, css, and  javascript.
 
 <a href="#">
 
-![new 3](https://github.com/user-attachments/assets/c3bd89b1-b4d7-4bad-8206-cae3b60fc218)
 
 </a>
 
