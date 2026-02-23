@@ -31,7 +31,7 @@ This is my personal profile  website built in html, css, javascript.
 
 ## Tech Stack
 
-**Client:** HTML, CSS, JavaScipt, Bootstrap.
+**Client:** HTML, CSS, JavaScipt.
 
 
 
