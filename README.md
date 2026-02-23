@@ -19,7 +19,7 @@ This is my personal profile or portfolio website built in html, css, javascript.
 
 
 ## Project Link
- https://aman-digital-profile.netlify.app/
+ Netlify: https://aman-digital-profile.netlify.app/
 
 ## Features
 
