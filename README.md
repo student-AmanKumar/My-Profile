@@ -8,7 +8,7 @@ This is my personal profile or portfolio website built in html, css, javascript.
 ## 🔗 Links
 <div id="badges">
   <a href="https://www.linkedin.com/in/aman-kumar-462a21316/">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT6HrOMIUHATjo7rRc2vDxvdtedbcA8-khlI_VeGBhcQ&s"/>
+    <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge""/>
   </a>
 </div>
 
@@ -19,7 +19,7 @@ This is my personal profile or portfolio website built in html, css, javascript.
 
 
 ## Project Link
-
+ https://aman-digital-profile.netlify.app/
 
 ## Features
 
