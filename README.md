@@ -13,9 +13,7 @@ This is my personal profile  website built in html, css, and  javascript.
 </div>
 
 
-## Author
 
-- [@AmanKumar](https://github.com/student-AmanKumar)
 
 
 ## Project Link
@@ -34,14 +32,6 @@ This is my personal profile  website built in html, css, and  javascript.
 **Client:** HTML, CSS, JavaScript.
 
 
-<h2>Project Contributors🫂</h2>
-
-<a href="https://github.com/student-AmanKumar/My-Profile/graphs/contributors">
-
-
-</a>
-
-<h2>Contributions are always welcome! 🎉</h2>
 
 
 
