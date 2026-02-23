@@ -2,7 +2,7 @@
 
 This is my personal profile  website built in html, css, javascript.
 
-<img width="952" alt="6" src="#">
+<img width="952"  alt="profile-img" src="https://github.com/user-attachments/assets/f97cf408-f78b-4e3b-9609-f19a8f1f1892" />
 
 
 ## 🔗 Links
