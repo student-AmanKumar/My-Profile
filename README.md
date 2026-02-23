@@ -15,7 +15,7 @@ This is my personal profile or portfolio website built in html, css, javascript.
 
 ## Author
 
-- [@AmanKumar]()
+- [@AmanKumar](https://github.com/student-AmanKumar)
 
 
 ## Project Link
