@@ -34,7 +34,14 @@ This is my personal profile  website built in html, css, and  javascript.
 **Client:** HTML, CSS, JavaScript.
 
 
+<h2>Project Contributors🫂</h2>
 
+<a href="#">
+  <img src="" />![new 3](https://github.com/user-attachments/assets/28edc02d-0ea7-4c53-81e7-62ae3e19bcf8)
+
+</a>
+
+<h2>Contributions are always welcome! 🎉</h2>
 
 
 
