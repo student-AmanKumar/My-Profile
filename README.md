@@ -7,7 +7,7 @@ This is my personal profile  website built in html, css, and  javascript.
 
 
 
-## Project Link
+## Link
  Netlify: https://aman-digital-profile.netlify.app/
 
 ## Features
